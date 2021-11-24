@@ -22,6 +22,4 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. Valgrind Failure
 2. Bug fixes pending
 
-=======
-https://api.codiga.io/project/29926/score/svg
->>>>>>> 1b1711f7cc148968186a761e0be1457e4eabb509
+![Code Quality Score](https://api.codiga.io/project/29926/score/svg)
