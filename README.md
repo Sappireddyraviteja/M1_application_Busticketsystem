@@ -23,3 +23,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## CodeQualityScore
 ![Code Quality Score](https://api.codiga.io/project/29926/score/svg)
+
+## CodeQualityStatus
+![Code Quality Score](https://api.codiga.io/project/29926/status/svg)
