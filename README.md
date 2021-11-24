@@ -8,3 +8,16 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+
+
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+1 |     Raviteja  | All    | 3  | X No   |  3   | 3         
+
+## Challenges Faced and How Was It Overcome
+
+1. Valgrind Failure
+2. Bug fixes pending
+
