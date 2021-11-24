@@ -26,3 +26,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## CodeQualityStatus
 ![Code Quality Score](https://api.codiga.io/project/29926/status/svg)
+
+## BUILD - Linux
+[![CI](https://github.com/Sappireddyraviteja/M1_application_Busticketsystem/actions/workflows/main.yml/badge.svg)](https://github.com/Sappireddyraviteja/M1_application_Busticketsystem/actions/workflows/main.yml)
